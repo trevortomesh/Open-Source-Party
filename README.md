@@ -1,6 +1,6 @@
 # Open Source Party Declaration of Principle
 
-![alt tag](https://github.com/opensourceparty/Open-Source-Party/img/flag.jpg)
+![alt tag](img/flag.jpg)
 
 The [Open Source Party](http://opensourceparty.net/) is a political movement that derives both inspiration and methods from Open Source software principles. The fundamental Open Source principles as they apply to this party, where laws, policies, and political processes are seen as a body of code, are:
 
